@@ -1,8 +1,12 @@
 # Collaborative SWE @ Purdue -- Shared Repository Hosting 
 Student-run software engineering projects developed as part of coursework at Purdue Univeristy.
 In addition to industry standard software engineering practices, these projects emphasize meaningful collaboration between developers.
-This organization is used to host team-based academic projects and is not an official Purdue University organization.
 
+</br>
+
+**This organization is used to host team-based academic projects and is not an official Purdue University organization.**
+
+</br>
 
 ### **Agent Runtime Team | ECE 50874 / ECE 595 - Spring 2026**
 
