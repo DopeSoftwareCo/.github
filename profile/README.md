@@ -8,7 +8,7 @@ In addition to industry standard software engineering practices, these projects 
 
 </br>
 
-### **Agent Runtime Team | ECE 50874 / ECE 595 - Spring 2026**
+### [**Agent Runtime Team | ECE 50874 / ECE 595 - Spring 2026**](https://github.com/Collaborative-SWE-at-Purdue/Sec-Agent-Runtime)
 
 | **Developer**                   | **GitHub Username**    | **LinkedIn Profile**
 |---------------------------------|------------------------|---------------------------------------------------------|
@@ -20,7 +20,7 @@ In addition to industry standard software engineering practices, these projects 
 </br>
 
 
-### **Undergrad SWE Team | ECE 461 - Fall 2024**
+### [**Undergrad SWE Team | ECE 461 - Fall 2024**](https://github.com/Collaborative-SWE-at-Purdue/Registry)
 
 | **Developer**                   | **GitHub Username**    | **LinkedIn Profile**
 |---------------------------------|------------------------|---------------------------------------------------------|
