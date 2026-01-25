@@ -14,7 +14,7 @@ In addition to industry standard software engineering practices, these projects 
 |---------------------------------|------------------------|---------------------------------------------------------|
 | Dorian Bell II&nbsp;&nbsp;&nbsp;| BellJrDev              | https://www.linkedin.com/in/belljrdev/                  |
 | Kevin Rivera&nbsp;&nbsp;&nbsp;  | Nimuar                 | https://www.linkedin.com/in/krivera53/                  |
-| Evan Berendt&nbsp;&nbsp;&nbsp;  | ??? &nbsp;             | https://www.linkedin.com/in/evan-behrendt-7a0046152/    |
+| Evan Berendt&nbsp;&nbsp;&nbsp;  | epbehren3              | https://www.linkedin.com/in/evan-behrendt-7a0046152/    |
 | Ting-Chia Liu&nbsp;&nbsp;&nbsp; | Lucy0918               | https://www.linkedin.com/in/tingchia-liu/               |
 </br>
 </br>
